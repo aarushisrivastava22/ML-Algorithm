@@ -1,4 +1,4 @@
-/* PA2 estimate */
+
 
 #include <stdio.h>
 #include <stdlib.h>
